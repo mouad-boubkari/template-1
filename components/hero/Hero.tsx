@@ -1,7 +1,7 @@
 const Hero = () => {
     return(
         <div className="grid col-auto justify-center py-40">
-            <div className="mx-72">
+            <div className="mx-80">
                 <h1 className="text-6xl md:text-9xl md:text-center"><span className="text-violet-600">Logicel</span> It's All About The Customer.</h1>
             </div>
             <div className="mx-96 mt-20">
